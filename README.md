@@ -1,1 +1,1 @@
-![Profile views](https://komarev.com/ghpvc/?username=TheC0mpany) <br> [![stats](https://github-readme-stats.vercel.app/api?username=TheC0mpany&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://komarev.com/ghpvc/?username=COLDasGHOST) <br> [![stats](https://github-readme-stats.vercel.app/api?username=COLDasGHOST&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
