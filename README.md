@@ -9,6 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer interested in exploring
 
 ## 📫 Connect with Me
 
-- **Discord:** [Tenet#1234](https://discord.com/users/959324254569103370)
+- **Discord:** [angin1337](https://discord.com/users/959324254569103370)
 
 Feel free to reach out or collaborate on any interesting projects. Thanks for visiting my profile! 😄
