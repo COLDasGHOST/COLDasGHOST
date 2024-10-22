@@ -9,6 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer interested in exploring
 
 ## 📫 Connect with Me
 
-![]([https://discord.com/users/959324254569103370](https://discord.c99.nl/widget/theme-1/959324254569103370.png))
+![](https://discord.c99.nl/widget/theme-1/959324254569103370.png)
 
 Feel free to reach out or collaborate on any interesting projects. Thanks for visiting my profile! 😄
